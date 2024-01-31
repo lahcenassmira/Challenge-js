@@ -1,0 +1,65 @@
+
+form{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+
+}
+body{
+    background-color:rgba(87, 26, 26, 0.712);
+}
+
+#text{
+    margin-right: 50px;
+    position: relative;
+  
+    padding: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: blueviolet;
+    border: 2px solid ; 
+}
+textarea{
+    position: relative;
+    top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: blueviolet;
+    border: 2px solid ; 
+}
+.live{
+    color: rgb(9, 30, 218);
+    font-weight: bold;
+    font-size: 25px;
+    margin-right: 10px;
+}
+
+.text{
+  color: rgb(9, 30, 218);
+  font-weight: bold;
+  font-size: 25px;
+  margin-right: 10px;
+
+}
+#text:focus{
+    outline: none;
+}
+
+
+
+ h2{
+  position: absolute;
+  top: 30%;
+  left: 25%;
+  font-size: 40px;
+  
+
+}
+ p{
+    position: absolute;
+    top: 32%;
+    left: 57%;
+    font-size: 30px;
+  
+}
+

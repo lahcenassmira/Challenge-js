@@ -1,0 +1,54 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+form{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    background-color: aquamarine;
+    width: 500px;
+    height: 200px;
+    border-radius: 30px;
+}
+body{
+    background-color: black;
+   
+}
+input{
+    position: relative;
+   
+    top: 30%;
+    left: 20%;
+    padding: 20px 60px 20px 10px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 2px 3px 5px ;
+    font-size: 20px;
+    flex: 1;
+}
+input:focus{
+  outline: none;
+}
+label{
+ 
+ position: absolute;
+ top: 30px;
+ left: 105px;
+ padding: 0;
+ font-size: 20px;
+ font-weight: bold;
+ color: green;
+ transition: .3s;
+ 
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: wheat;
+    margin: 60px auto;
+    font-weight: bold;
+
+}

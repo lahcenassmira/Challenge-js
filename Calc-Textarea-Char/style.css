@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    background-color: rgb(37, 8, 8);
+}
+
+#text {
+    border-radius: 6px;
+
+}
+
+#count {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 0 0;
+    font-size: 26px;
+    color: white;
+    font-weight: bold;
+
+
+}
+
+.Words {
+    display: none;
+
+}

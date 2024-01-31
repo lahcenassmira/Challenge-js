@@ -1,0 +1,18 @@
+
+body{
+    position: relative;
+    top: 400px;
+    left: 40%;
+    background-color: rgba(53, 37, 26, 0.507);
+}
+
+#clock{
+    font-size: 7rem;
+    font-weight: bold;
+    background-color: aqua;
+    width: fit-content;
+    padding: 0 50px;
+    border-radius: 10px;
+    box-shadow: 1px 16px 6px gray;
+    color: white;
+}
