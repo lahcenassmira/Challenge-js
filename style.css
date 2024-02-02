@@ -1,0 +1,41 @@
+.container{
+    display: block;
+    position: relative;
+   
+    text-align: center;
+    margin-top: 100px;
+    background-color: aqua;
+    padding: 20px;
+    
+
+}
+body{
+    background-color: black;
+}
+h1{
+    margin-bottom: 40px;
+    font-weight: bold;
+    color: rgb(238, 4, 4);
+}
+#search{
+    padding: 10px 20px;
+    border: 3px solid green ;
+    border-radius: 10px;
+
+}
+#search:focus{
+    outline: none;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    
+}
+ul li{
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(252, 67, 0);
+
+}
