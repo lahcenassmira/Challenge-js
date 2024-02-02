@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form{
+    position: relative;
+    top: 260px;
+    left: 30%;
+display: grid;
+ width: 300px;
+    
+}
+
+input[type="text"]{
+ padding: 20px;
+ margin-bottom: 10px;
+
+}
+
+input[type="password"]{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+input[type="email"]{
+    padding: 20px;
+    margin-bottom: 10px;
+}
+input[type="button"]{
+    padding: 20px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}

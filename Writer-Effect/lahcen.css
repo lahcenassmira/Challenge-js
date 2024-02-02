@@ -1,0 +1,31 @@
+#type , button{
+    position: absolute;
+    top: 25%;
+    left: 35%;
+    
+}
+body{
+    background-color: rgb(37, 27, 29);
+}
+button{
+    background-color: brown;
+    padding: 10px;
+   border: none;
+   border-radius: 10px;
+    left: 27%;
+    font-size: 18px;
+    font-weight: bold;
+    color: wheat;
+    cursor: pointer;
+
+}
+button:hover{
+  background-color:rgba(240, 6, 6, 0.671) ;
+}
+#type{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    color: chocolate;
+}
+

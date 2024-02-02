@@ -1,0 +1,22 @@
+body{
+    position: absolute;
+    top: 61%;
+    left: 45%;
+    transform: translate(-50px,50px);
+   background-image: url(javascript.webp);
+  
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+div{
+    width: 300px;
+    height: 60px;
+   
+    text-align: center;
+   border-radius: 6px;
+    font-size: 50px;
+    font-weight: bold;
+    color: green;
+
+}
