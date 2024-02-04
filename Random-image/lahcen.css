@@ -1,0 +1,21 @@
+.images{
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+body{
+    background-color: blue;
+}
+img{
+    border-radius: 20px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+   color: coral;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+}
